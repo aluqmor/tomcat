@@ -10,4 +10,5 @@ version="1.0">
 <user username="alumno"
 password="1234"
 roles="admin,admin-gui,manager,manager-gui"/>
+<user username="deploy" password="1234" roles="manager-script"/>
 </tomcat-users>
